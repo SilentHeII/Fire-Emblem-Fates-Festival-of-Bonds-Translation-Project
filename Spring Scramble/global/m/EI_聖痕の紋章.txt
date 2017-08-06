@@ -1,0 +1,8 @@
+MESS_ARCHIVE_EI_聖痕の紋章
+
+
+Message Name: Message
+
+
+MIID_聖痕の紋章: Exalt's Brand
+MIID_H_聖痕の紋章: Changes a unit to the Great Lord class\n(female units only).

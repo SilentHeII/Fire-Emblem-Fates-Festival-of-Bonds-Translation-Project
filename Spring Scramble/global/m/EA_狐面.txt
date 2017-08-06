@@ -1,0 +1,8 @@
+MESS_ARCHIVE_EA_狐面
+
+
+Message Name: Message
+
+
+MKID_ACCESHOP_狐面: Fox Mask
+MKID_H_ACCESHOP_狐面: A mask worn in the Hoshidan Festival.\nIt has no effect.
