@@ -1,0 +1,8 @@
+﻿MESS_ARCHIVE_EI_英雄王の紋章
+
+
+Message Name: Message
+
+
+MIID_英雄王の紋章: Hero's Brand
+MIID_H_英雄王の紋章: Changes a unit to the Lodestar class\n(male units only).

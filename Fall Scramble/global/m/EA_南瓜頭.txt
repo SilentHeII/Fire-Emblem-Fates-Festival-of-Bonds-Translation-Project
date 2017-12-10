@@ -1,0 +1,8 @@
+﻿MESS_ARCHIVE_EA_南瓜頭
+
+
+Message Name: Message
+
+
+MKID_ACCESHOP_南瓜頭: Pumpkin Head
+MKID_H_ACCESHOP_南瓜頭: A mask used in the Nohrian Festival from\nanother world. It has no bonus effects.
