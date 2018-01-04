@@ -3,16 +3,23 @@ This project aspires to translate the DLC that never made it to the west and rem
 
 Translation:
 
+
 young-il-long-kiyoshi
 
 mariethe crocheter
 
 thesteveengine
 
+
+
 Editing&Hacking:
+
 
 Silent Hell
 
+
+
 Contributors:
+
 
 Technickal
