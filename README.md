@@ -1,5 +1,5 @@
 # Fire-Emblem-Fates-Festival-of-Bonds-Translation-Project
-This project aspires to translate the DLC that never made it to the west and remained exclusive to Japan. These are the Hoshidan Festival of Bonds and the Nohrian Festival of bonds.
+Development was moved to google docs because it makes more fucking sense. https://docs.google.com/spreadsheets/d/1D3UxuuRYrgBH7w2f-oSTZgyyuT6bjBmYKe8pn1mU7z4/edit?usp=sharing
 
 Translation:
 
